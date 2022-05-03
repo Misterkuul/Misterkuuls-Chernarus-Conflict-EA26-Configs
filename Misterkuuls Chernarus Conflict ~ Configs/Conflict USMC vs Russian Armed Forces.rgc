@@ -1,0 +1,1119 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "M67 FRAG"
+                },
+                {
+                    "sourceDirectory": "2230809961",
+                    "sourceWorkshopId": 2230809961,
+                    "name": "[FGM-148 Javelin]"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 ACOG"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 ACOG GL"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "KNIFE"
+                },
+                {
+                    "sourceDirectory": "2609876568",
+                    "sourceWorkshopId": 2609876568,
+                    "name": "ADU-59 Slinger"
+                },
+                {
+                    "sourceDirectory": "1503638801",
+                    "sourceWorkshopId": 1503638801,
+                    "name": "R870 CQC"
+                },
+                {
+                    "sourceDirectory": "2661958973",
+                    "sourceWorkshopId": 2661958973,
+                    "name": "MP9 PDW"
+                },
+                {
+                    "sourceDirectory": "2661958973",
+                    "sourceWorkshopId": 2661958973,
+                    "name": "MP9"
+                },
+                {
+                    "sourceDirectory": "2227787793",
+                    "sourceWorkshopId": 2227787793,
+                    "name": "Machinen 5"
+                },
+                {
+                    "sourceDirectory": "2227787793",
+                    "sourceWorkshopId": 2227787793,
+                    "name": "Machinen 5 Suppressed"
+                },
+                {
+                    "sourceDirectory": "2661958973",
+                    "sourceWorkshopId": 2661958973,
+                    "name": "MP9 RDS"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "2229483704",
+                    "sourceWorkshopId": 2229483704,
+                    "name": "Stunrock Grenade"
+                },
+                {
+                    "sourceDirectory": "2236443375",
+                    "sourceWorkshopId": 2236443375,
+                    "name": "M2 Crane Goshawk (DR Scope)"
+                },
+                {
+                    "sourceDirectory": "1503638801",
+                    "sourceWorkshopId": 1503638801,
+                    "name": "M1014"
+                },
+                {
+                    "sourceDirectory": "1503638801",
+                    "sourceWorkshopId": 1503638801,
+                    "name": "M1014 Tactical"
+                },
+                {
+                    "sourceDirectory": "1503638801",
+                    "sourceWorkshopId": 1503638801,
+                    "name": "R870 [BUCKSHOT]"
+                },
+                {
+                    "sourceDirectory": "1503638801",
+                    "sourceWorkshopId": 1503638801,
+                    "name": "R870 [SLUG]"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "C4"
+                },
+                {
+                    "sourceDirectory": "2530590177",
+                    "sourceWorkshopId": 2530590177,
+                    "name": "EXTAS - M1911A1"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "M39 EMR"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "M9"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "M27[LMG]"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "M14 EBR"
+                },
+                {
+                    "sourceDirectory": "1144589299",
+                    "sourceWorkshopId": 1144589299,
+                    "name": "Grenade launcher"
+                },
+                {
+                    "sourceDirectory": "2244728812",
+                    "sourceWorkshopId": 2244728812,
+                    "name": "Machinen Pattern 7"
+                },
+                {
+                    "sourceDirectory": "2227787793",
+                    "sourceWorkshopId": 2227787793,
+                    "name": "Machinen 5 Kurz "
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "SCAR-L"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "MK23-S"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "MK18"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "AT4"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "MPX"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "SCAR-H"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-PDW"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "AMMO BOX"
+                },
+                {
+                    "sourceDirectory": "2795780595",
+                    "sourceWorkshopId": 2795780595,
+                    "name": "M249"
+                },
+                {
+                    "sourceDirectory": "2795780595",
+                    "sourceWorkshopId": 2795780595,
+                    "name": "M249 Assault"
+                },
+                {
+                    "sourceDirectory": "2795780595",
+                    "sourceWorkshopId": 2795780595,
+                    "name": "M249 Stealth"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "SUPER SHORTY"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "SMAW"
+                },
+                {
+                    "sourceDirectory": "2519538365",
+                    "sourceWorkshopId": 2519538365,
+                    "name": "DSR 50"
+                },
+                {
+                    "sourceDirectory": "2519538365",
+                    "sourceWorkshopId": 2519538365,
+                    "name": "DSR 50 Suppressed"
+                },
+                {
+                    "sourceDirectory": "2445945519",
+                    "sourceWorkshopId": 2445945519,
+                    "name": "M24"
+                },
+                {
+                    "sourceDirectory": "2445945519",
+                    "sourceWorkshopId": 2445945519,
+                    "name": "M24-S"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 ACOG VG"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 ACOG VG GL"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 CCO"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 CCO GL"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 CCO VG"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 CCO VG GL"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 Holo"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 Irons"
+                },
+                {
+                    "sourceDirectory": "2777316558",
+                    "sourceWorkshopId": 2777316558,
+                    "name": "M4A1 Irons VG"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2233339149",
+                    "sourceWorkshopId": 2233339149,
+                    "name": "Humvee Attack Woodland 3 2 (2) 1"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2233339149",
+                    "sourceWorkshopId": 2233339149,
+                    "name": "Humvee Attack Woodland 3 2 (2) 1"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2773525469",
+                    "sourceWorkshopId": 2773525469,
+                    "name": "M1A2 Abrams SEPv3 20"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2450270914",
+                    "sourceWorkshopId": 2450270914,
+                    "name": "AH-64D Woodland amogus 5"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "1944346935",
+                    "sourceWorkshopId": 1944346935,
+                    "name": "F35 v2 Stol"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "rhib"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2266631247",
+                    "sourceWorkshopId": 2266631247,
+                    "name": "Arleigh Burke-class Destroyer"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2764359264",
+                    "sourceWorkshopId": 2764359264,
+                    "name": "A-10 EA26 8"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2773550859",
+                    "sourceWorkshopId": 2773550859,
+                    "name": "MH-60L Transport gtg 2"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2521893567",
+                    "sourceWorkshopId": 2521893567,
+                    "name": "M2 Bradley Woodland revamp fixed SUS"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2525159091",
+                    "sourceWorkshopId": 2525159091,
+                    "name": "M240Navy"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2612964073",
+                    "sourceWorkshopId": 2612964073,
+                    "name": "TOW Launcher gg 1"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2135672898",
+                    "sourceWorkshopId": 2135672898,
+                    "name": "Nasam 35"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2117133184",
+                "sourceWorkshopId": 2117133184,
+                "name": "USMC 2000s Woodland"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "F1 FRAG"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "RGD-5 FRAG"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "RGN FRAG"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "RGO FRAG"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "AMMO BOX"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AEK-971"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AK-74M"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AK-74M 1P63"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AK-74M Grenade"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AK-74M Silencer"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AN-94 1P29 [Burst]"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "AN-94 Kobra"
+                },
+                {
+                    "sourceDirectory": "2399681523",
+                    "sourceWorkshopId": 2399681523,
+                    "name": "EXTAS - AS VAL"
+                },
+                {
+                    "sourceDirectory": "2716040319",
+                    "sourceWorkshopId": 2716040319,
+                    "name": "SVD Dragunov"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "Groza 1"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "Groza 4"
+                },
+                {
+                    "sourceDirectory": "2009945993",
+                    "sourceWorkshopId": 2009945993,
+                    "name": "RPK-74M"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "MP-443"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "MP-443 Flashlight"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "PKP Pecheneg"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "PP-19 Bizon"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "PP-19-01 Vityaz"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "RPG-26"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "SV-98"
+                },
+                {
+                    "sourceDirectory": "2035560960",
+                    "sourceWorkshopId": 2035560960,
+                    "name": "SV-98[Gear]"
+                },
+                {
+                    "sourceDirectory": "2414782559",
+                    "sourceWorkshopId": 2414782559,
+                    "name": "RPG Mk29"
+                },
+                {
+                    "sourceDirectory": "2229483704",
+                    "sourceWorkshopId": 2229483704,
+                    "name": "Stunrock Grenade"
+                },
+                {
+                    "sourceDirectory": "1562290989",
+                    "sourceWorkshopId": 1562290989,
+                    "name": "PP-2000(OKP-7)-S"
+                },
+                {
+                    "sourceDirectory": "1537586433",
+                    "sourceWorkshopId": 1537586433,
+                    "name": "VKS"
+                },
+                {
+                    "sourceDirectory": "1537586433",
+                    "sourceWorkshopId": 1537586433,
+                    "name": "VKS(IRONSIGHT)"
+                },
+                {
+                    "sourceDirectory": "2721544624",
+                    "sourceWorkshopId": 2721544624,
+                    "name": "LOBAEV Arms DVL-10 'Saboteur'"
+                },
+                {
+                    "sourceDirectory": "2721544624",
+                    "sourceWorkshopId": 2721544624,
+                    "name": "LOBAEV Arms DVL-10 'Saboteur' (RUSAK)"
+                },
+                {
+                    "sourceDirectory": "2752615134",
+                    "sourceWorkshopId": 2752615134,
+                    "name": " Karabin Spetsialniy, 23mm - \"Barrikada\" Slugs"
+                },
+                {
+                    "sourceDirectory": "2752615134",
+                    "sourceWorkshopId": 2752615134,
+                    "name": " Karabin Spetsialniy, 23mm - Shrapnel-25 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2428986046",
+                    "sourceWorkshopId": 2428986046,
+                    "name": "EXTAS - PL15K"
+                },
+                {
+                    "sourceDirectory": "2563343378",
+                    "sourceWorkshopId": 2563343378,
+                    "name": "EXTAS - APS"
+                },
+                {
+                    "sourceDirectory": "2305024965",
+                    "sourceWorkshopId": 2305024965,
+                    "name": "PMm"
+                },
+                {
+                    "sourceDirectory": "2736700586",
+                    "sourceWorkshopId": 2736700586,
+                    "name": "SR-1 \"Vektor\""
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "FRAG RPG-7"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "FRAG RPG-7 Multi-Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "FRAG RPG-7 Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Anti-Tank"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Anti-Tank Multi Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Anti-Tank Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Multi-Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Scope"
+                },
+                {
+                    "sourceDirectory": "1852892150",
+                    "sourceWorkshopId": 1852892150,
+                    "name": "[Strela-2]"
+                },
+                {
+                    "sourceDirectory": "1144589299",
+                    "sourceWorkshopId": 1144589299,
+                    "name": "Grenade launcher"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "2301090888",
+                    "sourceWorkshopId": 2301090888,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "1562290989",
+                    "sourceWorkshopId": 1562290989,
+                    "name": "PP-2000(OKP-7)"
+                },
+                {
+                    "sourceDirectory": "1562290989",
+                    "sourceWorkshopId": 1562290989,
+                    "name": "PP-2000"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2523142423",
+                    "sourceWorkshopId": 2523142423,
+                    "name": "GAZ Tigr 13"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2777148460",
+                    "sourceWorkshopId": 2777148460,
+                    "name": "BMD-4 1"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2790100870",
+                    "sourceWorkshopId": 2790100870,
+                    "name": "lf_VDV BUGGY"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2752065034",
+                    "sourceWorkshopId": 2752065034,
+                    "name": "T-80U RE gtg 3"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2783042841",
+                    "sourceWorkshopId": 2783042841,
+                    "name": "ka 52"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2769348482",
+                    "sourceWorkshopId": 2769348482,
+                    "name": "mig-29"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "rhib"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2523141041",
+                    "sourceWorkshopId": 2523141041,
+                    "name": "Hf"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2612892672",
+                    "sourceWorkshopId": 2612892672,
+                    "name": "su25"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2021844037",
+                    "sourceWorkshopId": 2021844037,
+                    "name": "mi17v5 (1)"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2767264770",
+                    "sourceWorkshopId": 2767264770,
+                    "name": "2s7"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2772868691",
+                    "sourceWorkshopId": 2772868691,
+                    "name": "DSHKM turret"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2612964073",
+                    "sourceWorkshopId": 2612964073,
+                    "name": "TOW Launcher gg 1"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2787160322",
+                    "sourceWorkshopId": 2787160322,
+                    "name": "lf_pantsir s1"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "1963985025",
+                "sourceWorkshopId": 1963985025,
+                "name": "VSR Summer"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2535267658",
+            "sourceWorkshopId": 2535267658,
+            "name": "Enhanced Health",
+            "fields": [
+                {
+                    "id": "maxHP",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "stimOverheal",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healDelay",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "healInterval",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "healValue",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "stimHeal",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "stimDuration",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "speedBoost",
+                    "serializedValue": "1,5"
+                },
+                {
+                    "id": "speedBoostDuration",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "doRegen",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isPercent",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doQuickAnim",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "doStimRegen",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimSpeedBost",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doVignette",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doFadeToBlack",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimFlash",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bandageDoOverHeal",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bandageDoSpeedBoost",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "vignetteStyle",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799656963",
+            "sourceWorkshopId": 2799656963,
+            "name": "Weapon slot based running speed",
+            "fields": [
+                {
+                    "id": "PrimarySpeedMod",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "SecondarySpeedMod",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "GearSpeedMod",
+                    "serializedValue": "15"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799793905",
+            "sourceWorkshopId": 2799793905,
+            "name": "Universal Recoil",
+            "fields": [
+                {
+                    "id": "recoilAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "swayAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "trendMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "recoveryAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "reducedVisual",
+                    "serializedValue": "0,8"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2113476986",
+            "sourceWorkshopId": 2113476986,
+            "name": "Auto Squad",
+            "fields": [
+                {
+                    "id": "botCount",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "autoFill",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "dropdownVersion",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2121823035",
+            "sourceWorkshopId": 2121823035,
+            "name": "Custom Blood Color",
+            "fields": [
+                {
+                    "id": "rSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "gSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderEagle",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "rSliderRaven",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "gSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "aSliderRaven",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "aSliderEagle",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "hexValueEagle",
+                    "serializedValue": "#0000ff"
+                },
+                {
+                    "id": "hexValueRaven",
+                    "serializedValue": "#ff0000"
+                },
+                {
+                    "id": "disableBlood",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "usePresets",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "hexColorEnabled",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "preset",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2407513273",
+            "sourceWorkshopId": 2407513273,
+            "name": "Universal Camera Shake",
+            "fields": [
+                {
+                    "id": "Vehicle",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Spread",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Shaking",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2573410809",
+            "sourceWorkshopId": 2573410809,
+            "name": "BATTLE STATISTICS",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2589190263",
+            "sourceWorkshopId": 2589190263,
+            "name": "Radar",
+            "fields": [
+                {
+                    "id": "showFlags",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "showResupplyCrates",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2095193497",
+            "sourceWorkshopId": 2095193497,
+            "name": "<color=#f25c54>Weapon</color> <color=#f4845f>Pickup</color>",
+            "fields": [
+                {
+                    "id": "despawnTime",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "dropChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "everyBotDrops",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "IsCubeInvisible",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "showWeaponNames",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "versionSelected",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2194473147",
+            "sourceWorkshopId": 2194473147,
+            "name": "Damage Indicator",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2585496026",
+            "sourceWorkshopId": 2585496026,
+            "name": "<color=lime>Modern Warfare</color> Style HUD",
+            "fields": [
+                {
+                    "id": "weaponSpriteScale",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "feedLimit",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "displayName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "showWeaponText",
+                    "serializedValue": "T"
+                },
+                {
+                    "id": "blueTeamName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "redTeamName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "healthBarVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "weaponHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "vehicleHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "playerNameVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "squadTextVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthNumberVisibility",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "displayKills",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "showCapturePointUpdates",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "feedEnabled",
+                    "serializedValue": "True"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
